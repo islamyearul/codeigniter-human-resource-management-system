@@ -1,0 +1,2 @@
+email = islamyearul@gmail.com
+pass= admin123456
